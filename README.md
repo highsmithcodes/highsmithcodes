@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @highsmithcodes
 - 👀 I’m interested in good music, nice people and nerdy stuff
-- 🌱 I’m currently learning Java, PostgreSQL and Golang 
+- 🌱 I’m currently learning PostgreSQL, Docker/Kubernetes and Golang 
 - 💞️ I’m looking to collaborate on anything honestly
 - 📫 How to reach me ezrahighsmith@gmail.com
 
