@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @highsmithcodes
-- 👀 I’m interested in good music, nice people and nerdy stuff
-- 🌱 I’m currently learning .Net, PostgreSQL, C#
-- 💞️ I’m looking to collaborate on anything honestly
+- 👀 I’m interested in relational databases and candles
+- 🌱 I’m currently learning PostgreSQL, .Net, C#
+- 💞️ I’m looking to make cool things
 - 📫 How to reach me ezrahighsmith@gmail.com
 
 <!---
