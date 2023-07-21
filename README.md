@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm @highsmithcodes.</h1>
 
-- 🔭 I’m actively working on my social media web app built with Typescript [Basement Brew](https://calm-citadel-57835-a56a50f8f306.herokuapp.com/)
+- 🔭 I’m actively working on a social media app built with Typescript and AWS [Basement Brew](https://calm-citadel-57835-a56a50f8f306.herokuapp.com/)
 
-- 🌱 I’m currently learning **Python & Java**
+- 🌱 I’m currently learning **Python & C#**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/highsmithcodes](https://github.com/highsmithcodes)
 
